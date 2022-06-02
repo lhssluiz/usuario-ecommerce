@@ -4,5 +4,7 @@ Esse microsserviço tem a responsabilidade de adicionar usuários, buscar os que
 #Endpoints
 
 /usuario/adicionar
+
 /usuario/all
+
 /usuarui/id
